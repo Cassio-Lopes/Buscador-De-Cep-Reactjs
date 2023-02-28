@@ -1,11 +1,12 @@
 
-![01](https://user-images.githubusercontent.com/86318311/195967314-b38fa98c-5bb5-418b-816c-66259d8dd8fd.png)
-![02](https://user-images.githubusercontent.com/86318311/195967315-1f619443-9bd5-4953-87a2-c3b41bcad1de.png)
+
 
 <h1 align="center">Sobre o Projeto</h1>
  
 No Projeto Para Consultar CEP basta você digitar o cep que ira fazer uma requisição  para a API do ViaCep e então obter o retorno com informações como CEP, nome da Cidade, Código do Município, UF, etc.
 
+
+![Animação ](https://user-images.githubusercontent.com/86318311/221974402-3fc8586d-90f5-4918-9eca-b173261f0de6.gif)
 
 
 
